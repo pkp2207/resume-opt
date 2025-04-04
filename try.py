@@ -5,7 +5,7 @@ url = "https://resume-opt-two.vercel.app/predict/"
 
 # Data to be sent in the POST request
 data = {
-    "resume_text": "Skills * Programming Languages: Python, SQL, Java, etc.",
+    "resume_text": "Skills * Programming Languages: C++, ReactJS, MongoDB, etc.",
     "job_description": "Looking for a Data Scientist with Python, SQL, and Machine Learning experience.",
     "job_skills": "Python, SQL, Machine Learning, Data Science"
 }
